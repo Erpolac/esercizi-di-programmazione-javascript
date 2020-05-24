@@ -17,3 +17,6 @@
 
   http://www.imparareaprogrammare.it
 */
+let numero di gatti = 72
+let gatti per fila = 8
+File risultanti = console.log(numero di gatti/gatti per fila);
